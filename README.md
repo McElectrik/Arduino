@@ -1,7 +1,7 @@
 # Arduino
 
-LASER TAG
+# LASER TAG
 
-https://github.com/McElectrik/Arduino/blob/master/IrGunEndEdit/Screenshot.png
+# SCREENSHOT https://github.com/McElectrik/Arduino/blob/master/IrGunEndEdit/Screenshot.png
 
-Scheme https://github.com/McElectrik/Arduino/blob/master/IrGunEndEdit/Scheme.png
+# SCHEME https://github.com/McElectrik/Arduino/blob/master/IrGunEndEdit/Scheme.jpg
